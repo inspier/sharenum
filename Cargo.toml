@@ -1,0 +1,8 @@
+[package]
+name = "sharenum"
+version = "0.0.0"
+authors = ["inspier <devdevin541@gmail.com>"]
+edition = "2018"
+description = "Macros for implementing common behaviour for multiple enum variants."
+license = "MIT"
+readme = "README.md"
